@@ -1,5 +1,5 @@
 # Desafio final do workshop 2022.2
-# Requisitos Mínimos:
+
 # Pagina de Apresentação:
 Deve conter uma pequena apresentação com o nome do zoológico e descrição.
 Uma barra de navegação para o usuário alternar entre a página principal e outras páginas.
