@@ -7,18 +7,18 @@ Uma barra de navegação para o usuário alternar entre a página principal e ou
 Deve contar apenas um cartão com um botão para gerar um animal novo aleatório.
 Cada cartão da galeria deve conter as seguintes informações:
 Imagem do animal
-Nome
-Nome em latim
-Habitat natural
-Dieta
-Localização
-Botão para gerar um novo animal
+Nome,
+Nome em latim,
+Habitat natural,
+Dieta,
+Localização.
+Botão para gerar um novo animal,
 # Página de Galeria:
-Deve conter pelo menos 5 cartões de animais (máximo 10)
+Deve conter pelo menos 5 cartões de animais (máximo 10).
 Cada cartão da galeria deve conter as seguintes informações:
-Imagem do animal
-Nome
-Nome em latim
-Habitat natural
-Dieta
-Localização
+Imagem do animal,
+Nome,
+Nome em latim,
+Habitat natural,
+Dieta,
+Localização.
